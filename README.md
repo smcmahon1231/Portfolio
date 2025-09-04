@@ -16,7 +16,7 @@ Here's a walkthrough of the login feature/deployment:
 
 <img src='https://i.imgur.com/HTGPL1F.gif' title='Video Walkthrough-2' width='' alt='Video Walkthrough-2' />
 
-## SwiftUI Project:
+## Full Stack & SwiftUI Project:
 
 ### PokeTracker Description:
 
@@ -41,10 +41,10 @@ PokeTracker is an app that allows users to view a full list of Pokemon throughou
 
 ### Demo:
 
-Final Demo Gif:
+Final Demo Gif SwiftUI App:
 
 ![image](poketracker.gif)
 
-Final Demo Presentation:
+Final Demo Presentation Full Site:
 
-https://youtu.be/KoL_cVsw-W0 
+https://youtu.be/XA6MJgVjfqE?si=EaYPECVEQ3ewg7fn
